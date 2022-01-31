@@ -1,2 +1,2 @@
-# Coffee-Token
-Solana-Coffee token
+# RTD-Token
+# HDC Token
